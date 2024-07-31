@@ -16,7 +16,6 @@ I made a Employee mangment system with python and mysql. The user has
 What I learned from this project
 
 1. I learned how to intergrate mysql code within my python code so
-
 it could be executed
 
 2. Learned how to interact with mysql data bases and learned how tables are used to hold data
